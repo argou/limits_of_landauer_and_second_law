@@ -2,16 +2,16 @@
 Limits of Landauer Principle and of the Second Law of Thermodynamics. Contains Python scripts and documentation
 
 📌 Overview
-This repository relates to the reference paper "Limits of Landauer's priciple and of the second law of thermodynamics"
+This repository relates to the reference paper "Limits of Landauer's principle and of the second law of thermodynamics"
 which provides a deep analysis of several recent experiments.
-It provides the numerical simulations described in the reference paper.
+It gives the numerical simulations described in the reference paper.
 It includes a supplementary pdf document and Python scripts that model different one-bit memory systems and analyze their  behavior.
 
 📂 Contents
-memory_type1.py – Simulation of the first memory model.
-memory_type2.py – Simulation of the second memory model.
-memory_type3.py – Simulation of the third memory model.
-docs/explanatory_document.md – Detailed explanation of the models .
+Tilting_bistable_memory_v10.py – Simulation of a tilting bistable memory.
+Shifting_bistable_memory_v10.py – Simulation of a shifting bistable memory.
+Shift_memory_v10.py – Simulation of a shift memory.
+Limits of Landauer and second law 260209.pdf – Detailed explanation of the models.
 
 ⚙️ How to Run
 Clone the repository:
@@ -19,7 +19,7 @@ Clone the repository:
 git clone https://github.com/argou/limits_of_landauer_and_second_law.git
 cd limits_of_landauer_and_second_law
 
-Refer to docs/explanatory_document.md for details on the physical principles and simulation parameters.
+Refer to Limits of Landauer and second law 260209.pdf for details on the physical principles and simulation parameters.
 
 🧠 Purpose
 These simulations aim to illustrate:
