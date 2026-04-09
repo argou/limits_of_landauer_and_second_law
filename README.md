@@ -9,9 +9,8 @@ It includes a supplementary pdf document and Python scripts that model different
 
 📂 Contents
 Tilting_bistable_memory_v10.py – Simulation of a tilting bistable memory.
-Shifting_bistable_memory_v10.py – Simulation of a shifting bistable memory.
-Shift_memory_v10.py – Simulation of a shift memory.
-Limits of Landauer and second law 260209.pdf – Detailed explanation of the models.
+Single_well_memory_v10.py – Simulation of a shifting bistable memory.
+Limits of Landauer and second law V2 260408.pdf – Detailed explanation of the models.
 
 ⚙️ How to Run
 Clone the repository:
